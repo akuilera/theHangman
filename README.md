@@ -7,6 +7,8 @@ The Hangman is a guessing game for one or more players. One player (or the compu
 
 If you want to know more about the game, follow [this](https://en.wikipedia.org/wiki/Hangman_(game)) link for a full article!
 
+If you want to see the game in Google Colab, follow [this](https://colab.research.google.com/drive/1VdqDC09x-NJt20cZtNK5kTW3l3MRXS6t?usp=sharing) link!
+
 ### Arguments:
 
 - mode: 'word' or 'phrase'
